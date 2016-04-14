@@ -1,4 +1,7 @@
+#!/bin/bash
 # Artifactory location
+#a test comment
+
 server=http://artifactory.visualfrenzy.com/artifactory
 repo=libs-snapshot-local
 

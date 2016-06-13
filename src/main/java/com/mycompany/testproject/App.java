@@ -1,4 +1,5 @@
 package com.mycompany.testproject;
+test
 
 /**
  * Hello world!

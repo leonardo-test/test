@@ -5,7 +5,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <url>http://maven.apache.org</url>
-
+test
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>

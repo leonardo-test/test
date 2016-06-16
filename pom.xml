@@ -6,6 +6,7 @@
   <packaging>jar</packaging>
   <url>http://maven.apache.org</url>
 test
+testtest
 test
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

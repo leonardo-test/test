@@ -1,6 +1,6 @@
 package com.mycompany.testproject;
 
-test
+test2
 /**
  * Hello world!
  *

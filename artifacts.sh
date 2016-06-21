@@ -1,4 +1,5 @@
 # Artifactory location
+test
 server=http://artifactory.visualfrenzy.com/artifactory
 repo=libs-snapshot-local
 

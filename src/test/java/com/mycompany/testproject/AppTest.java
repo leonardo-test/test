@@ -5,7 +5,7 @@ import junit.framework.TestSuite;
 test
 
 /**
- * Unit test for simple App.
+ * Unit test for simple App. This is a development branch test
  */
 public class AppTest 
     extends TestCase

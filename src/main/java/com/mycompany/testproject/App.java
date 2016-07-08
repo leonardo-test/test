@@ -1,7 +1,7 @@
 package com.mycompany.testproject;
 
 /**
- * Hello world!
+ * Hello world! this is a development test
  *
  */
 public class App 

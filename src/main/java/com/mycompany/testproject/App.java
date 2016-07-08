@@ -1,7 +1,7 @@
 package com.mycompany.testproject;
 
 /**
- * Hello world! this is a development test
+ * Hello world! this is a development test with excluded regions
  *
  */
 public class App 

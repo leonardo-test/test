@@ -3,6 +3,7 @@ server=http://artifactory.visualfrenzy.com/artifactory
 repo=libs-snapshot-local
 
 # Maven artifact location
+#sdafakjhsdflkajhsdflk
 name=testProject
 artifact=com/mycompany/$name
 path=$server/$repo/$artifact

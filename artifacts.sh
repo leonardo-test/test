@@ -4,6 +4,7 @@ repo=libs-snapshot-local
 
 # Maven artifact location
 #sdafakjhsdflkajhsdflk
+#test2
 name=testProject
 artifact=com/mycompany/$name
 path=$server/$repo/$artifact

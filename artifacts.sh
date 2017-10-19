@@ -12,6 +12,6 @@ build=`curl -s $path/$version/maven-metadata.xml | grep '<value>' | head -1 | se
 jar=$name-$build.jar
 url=$path/$version/$jar
 
-# Download phil inanni
+# Download phil inanni3434
 echo $url
 wget -q -N $url

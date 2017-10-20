@@ -1,2 +1,2 @@
 # Artifactory location
-YO DAWGka 
+YO DAWGkaskska 

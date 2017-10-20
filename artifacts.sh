@@ -12,6 +12,6 @@ build=`curl -s $path/$version/maven-metadata.xml | grep '<value>' | head -1 | se
 jar=$name-$build.jar
 url=$path/$version/$jar
 
-# Download qwei35n44k
+# Download qwei35n342344k
 echo $url
 wget -q -N $url
